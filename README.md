@@ -4,4 +4,4 @@
 #### UPDATES COMING SOON..
 
 Personal Notification Flight System - that sends you specific information about your flight approaching depending on the day of the flight.
-There are also random and not random discounts, depending on the day till the flight.
+There are also random and not random discounts, depending on the day.
