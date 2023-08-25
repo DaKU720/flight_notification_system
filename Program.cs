@@ -1,6 +1,6 @@
 using System;
 
-namespace Easy_Flight_Notify
+namespace Flight_Notify
 {
     internal class Program
     {
